@@ -38,14 +38,4 @@ The following areas of YouTube were tested:
 
 ---
 
-##  Deliverable  
-- **`YouTube_Web_App_Manual_Testing.xlsx`**  
-  - Contains detailed test cases with:  
-    - Test Case ID  
-    - Scenarios  
-    - Steps to Execute  
-    - Expected Results
-    - Status  
-
----
 
