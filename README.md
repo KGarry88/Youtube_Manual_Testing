@@ -1,18 +1,18 @@
 # YouTube Web App – Manual Testing Project  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project demonstrates **manual QA testing** of the YouTube web application. The focus is on validating core user flows such as login, search, video playback, comments, and uploads. The goal is to showcase strong test case design, attention to detail, and defect reporting — essential skills for a QA role.  
 
 ---
 
-## 🛠️ Tools & Deliverables  
+##  Tools & Deliverables  
 - **Excel (XLSX)** – Detailed test cases written in a structured format  
 - **GitHub** – Version control and portfolio hosting  
 - **Test Case Design Techniques** – Positive, negative, boundary, and exploratory testing  
 
 ---
 
-## ✅ Test Coverage  
+##  Test Coverage  
 The following areas of YouTube were tested:  
 
 1. **Video Playback**  
@@ -38,7 +38,7 @@ The following areas of YouTube were tested:
 
 ---
 
-## 📊 Deliverable  
+##  Deliverable  
 - **`YouTube_Web_App_Manual_Testing.xlsx`**  
   - Contains detailed test cases with:  
     - Test Case ID  
