@@ -1,7 +1,7 @@
 # YouTube Web App – Manual Testing Project  
 
 ##  Project Overview  
-This project demonstrates **manual QA testing** of the YouTube web application. The focus is on validating core user flows such as login, search, video playback, comments, and uploads. The goal is to showcase strong test case design, attention to detail, and defect reporting — essential skills for a QA role.  
+This project demonstrates **manual QA testing** of the YouTube web and mobile applications. The focus is on validating core user flows such as login, search, video playback, comments, and uploads. The goal is to showcase strong test case design, attention to detail, and defect reporting.  
 
 ---
 
